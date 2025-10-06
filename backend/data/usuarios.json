@@ -8,5 +8,20 @@
     "id": 1759145894470,
     "email": "rrewrerwrw@teste.com",
     "senha": "$2b$10$/FZIlt2rlryGNcCllyY5pOKTcjOFV7iTEtSSEfNEzyzkBCd4AvxN2"
+  },
+  {
+    "id": 1759752720455,
+    "email": "teste2@teste.com",
+    "senha": "$2b$10$fI4mSu/xvNTs3Eraq.EP2elSTAjBpay.WRHUEvXOYcaCUIv.uBh5."
+  },
+  {
+    "id": 1759752772543,
+    "email": "teste3@teste.com",
+    "senha": "$2b$10$uKU53B7N6KXhYIKGOMn3..k055HTOgaVxy.zuKQvp8aGWN6gJSY3m"
+  },
+  {
+    "id": 1759761246537,
+    "email": "teste11@teste.com",
+    "senha": "$2b$10$Ovwk4Nm.xHwLEPuIhdI7bucsD7/nwFFHc9nNBJNeBpysKe5hn3mXa"
   }
 ]
